@@ -30,8 +30,9 @@
 ---
 
 ## 💬 Let's Connect!
+- 🌐 GitHub: [github.com/Kashifmujeeb17](https://github.com/Kashifmujeeb17)
+- 🌐 LinkedIn: [linkedin.com/in/kashif-mujeeb-64789616a](https://www.linkedin.com/in/kashif-mujeeb-64789616a/)
 - 📧 Email: [kashif.mujeeb911@gmail.com](mailto:kashif.mujeeb911@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/kashifmujeeb](https://linkedin.com/in/kashifmujeeb)
 - 💻 Portfolio: [kashifmujeeb.github.io](https://kashifmujeeb.github.io) *(Coming Soon!)*
 
 ---
@@ -42,4 +43,3 @@
 ---
 
 💡 *“The only way to do great work is to love what you do.” — Steve Jobs*
-
